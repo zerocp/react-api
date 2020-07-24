@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "123",
+      "description": "desc",
+      "id": 1
+    },
+    {
+      "description": "desc again",
+      "title": "mystream",
+      "id": 2
+    },
+    {
+      "title": "ano",
+      "description": "nymous",
+      "userId": "111119923649422219389",
+      "id": 3
+    },
+    {
+      "title": "pnl",
+      "description": "qlf",
+      "userId": "111119923649422219389",
+      "id": 4
+    },
+    {
+      "title": "vn",
+      "description": "tm",
+      "userId": "111119923649422219389",
+      "id": 6
+    }
+  ]
+}
